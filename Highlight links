@@ -1,0 +1,1 @@
+javascript:(function()%7Bconst%20addCSS%20%3D%20css%20%3D%3E%20document.head.appendChild(document.createElement(%22style%22)).innerHTML%3Dcss%3BaddCSS(%22a%7B%20background%3A%20blue%3B%20%7D%22)%7D)()

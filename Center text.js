@@ -1,0 +1,1 @@
+javascript:(function()%7Bconst%20addCSS%20%3D%20css%20%3D%3E%20document.head.appendChild(document.createElement(%22style%22)).innerHTML%3Dcss%3BaddCSS(%22h1%20%7Btext-align%3A%20center%3B%7Dp%20%7Btext-align%3A%20center%3B%7D%22)%7D)()

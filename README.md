@@ -4,7 +4,7 @@
 <body style="background-color: black;">
 <html>
 <h2 style="color: white;">My bookmarklets</h2>
-<a href="js.do/iambest1236600/my-bookmarklets">
+<a href="https://js.do/iambest1236600/my-bookmarklets">
 <p>Js.do one</p>
 </a>
 

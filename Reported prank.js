@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.write(%22%3Ch1%3EDue%20to%20unknown%20activity%2C%20you%20have%20been%20reported.%3C%5C%2Fh1%3E%5Cr%5Cn%3Cp%3EFor%20more%20information%2C%20go%20to%20%3Ca%20href%3D%5C%22javascript%3Aalert('Get%20Pranked%20Bro!')%5C%22%3E%20%3Cp%3Ethis%20website%3C%5C%2Fp%3E%3C%5C%2Fa%3E.%3C%5C%2Fp%3E%22)%7D)()

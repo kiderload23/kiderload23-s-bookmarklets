@@ -1,0 +1,1 @@
+javascript:(function()%7Bconst%20addCSS%20%3D%20css%20%3D%3E%20document.head.appendChild(document.createElement(%22style%22)).innerHTML%3Dcss%3BaddCSS(%22p%7B%20background-color%3Agray%3B%20border-radius%3A%205px%3B%20%7Da%7Bbackground-color%3Apurple%3B%20border-radius%3A%205px%3B%7Dbody%7Bbackground%3Agreen%3B%7D%22)%7D)()

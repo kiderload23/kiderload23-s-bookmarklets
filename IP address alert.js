@@ -1,0 +1,1 @@
+javascript:(function()%7Bfetch('https%3A%2F%2Fapi.ipify.org%3Fformat%3Djson').then(response%20%3D%3E%20response.json()).then(data%20%3D%3E%20%7Balert(data.ip)%3B%7D).catch(error%20%3D%3E%20%7Bconsole.log('Error%3A'%2C%20error)%3B%7D)%7D)()
